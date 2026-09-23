@@ -71,14 +71,14 @@ dentro del navegador.
 <tr>
 <td width="50%" valign="top">
 
-### 🎺 [HORNS](https://github.com/redtigerstudio/horns)
+### 🎺 [HORNS](https://horns.redtiger.studio)
 
 La escala escrita como tú la lees.
 Trompeta, trombón y saxofón.
 
 `Afinador` `Metrónomo` `PWA`
 
-*Terminada · sin desplegar*
+**[▶ En vivo](https://horns.redtiger.studio)**
 
 </td>
 <td width="50%" valign="top">
