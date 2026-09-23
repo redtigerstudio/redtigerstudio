@@ -1,11 +1,13 @@
 <div align="center">
 
-# Red Tiger Studio
+<img src="assets/redtiger-wordmark.png" width="420" alt="Red Tiger Studio">
 
-**Diseño y herramientas para gente que hace música y video.**
+### Diseño y herramientas para gente que hace música y video
 
-Apps de escritorio, identidad visual y producto.
+Apps de escritorio, instrumentos para navegador e identidad visual.
 Hechas en México.
+
+**[redtigerstudio.github.io](https://redtigerstudio.github.io)**
 
 </div>
 
@@ -55,14 +57,14 @@ Un dial, una mirada.
 </td>
 <td width="50%" valign="top">
 
-### 🎛 [Dub Explorer](https://github.com/redtigerstudio/dub-explorer)
+### 🎛 [Dub Explorer](https://dub.redtiger.studio)
 
-DAW gamificado + comunidad.
-Producción musical sin barrera.
+Consola de dub en vivo,
+dentro del navegador.
 
-`Producción` `Comunidad` `Dub`
+`Stems` `FX` `Sampler` `MIDI` `Record`
 
-*En propuesta*
+**[▶ En vivo](https://dub.redtiger.studio)**
 
 </td>
 </tr>
@@ -71,21 +73,22 @@ Producción musical sin barrera.
 
 ### 🎺 [HORNS](https://github.com/redtigerstudio/horns)
 
-Práctica para músicos de viento.
-Afinador, metrónomo, digitaciones.
+La escala escrita como tú la lees.
+Trompeta, trombón y saxofón.
 
-`Trompeta` `Trombón` `Saxofón`
+`Afinador` `Metrónomo` `PWA`
 
-*En concepto*
+*Terminada · sin desplegar*
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portafolio](https://redtigerstudio.github.io)
+### 🌐 [redtiger.studio](https://redtiger.studio)
 
-Todos los proyectos en un sitio.
+El estudio completo:
+diseño, video, animación y música.
 
-**redtigerstudio.github.io**
+**redtiger.studio**
 
 </td>
 </tr>
@@ -95,13 +98,15 @@ Todos los proyectos en un sitio.
 
 ## Qué hago
 
-Diseño de producto · Identidad visual · Motion graphics · Apps de escritorio
+Diseño de producto · Identidad visual · Motion graphics · Apps de escritorio · Instrumentos para navegador
 
 <br>
 
 ---
 
 <div align="center">
+
+<img src="assets/redtiger-crest.png" width="90" alt="">
 
 *Made by Red Tiger Std*
 
