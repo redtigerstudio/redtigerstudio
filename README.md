@@ -43,14 +43,30 @@ Lotes, forma de onda, espectro.
 <tr>
 <td width="50%" valign="top">
 
+### ⌚ [MetroPulse](https://github.com/REDTIGER_USER/metropulse)
+
+Metrónomo para Apple Watch.
+Un dial, una mirada.
+
+`SwiftUI` `watchOS` `Digital Crown`
+
+*Funcionando en dispositivo*
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎛 [Dub Explorer](https://github.com/REDTIGER_USER/dub-explorer)
 
 DAW gamificado + comunidad.
-Producción musical sin barrera de entrada.
+Producción musical sin barrera.
+
+`Producción` `Comunidad` `Dub`
 
 *En propuesta*
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🎺 [HORNS](https://github.com/REDTIGER_USER/horns)
@@ -58,7 +74,18 @@ Producción musical sin barrera de entrada.
 Práctica para músicos de viento.
 Afinador, metrónomo, digitaciones.
 
+`Trompeta` `Trombón` `Saxofón`
+
 *En concepto*
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portafolio](https://REDTIGER_USER.github.io)
+
+Todos los proyectos en un sitio.
+
+**redtigerstudio.github.io**
 
 </td>
 </tr>
