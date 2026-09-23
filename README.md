@@ -45,18 +45,6 @@ Lotes, forma de onda, espectro.
 <tr>
 <td width="50%" valign="top">
 
-### ⌚ [MetroPulse](https://github.com/redtigerstudio/metropulse)
-
-Metrónomo para Apple Watch.
-Un dial, una mirada.
-
-`SwiftUI` `watchOS` `Digital Crown`
-
-*Funcionando en dispositivo*
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎛 [Dub Explorer](https://dub.redtiger.studio)
 
 Consola de dub en vivo,
@@ -67,8 +55,6 @@ dentro del navegador.
 **[▶ En vivo](https://dub.redtiger.studio)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🎺 [HORNS](https://horns.redtiger.studio)
@@ -81,18 +67,14 @@ Trompeta, trombón y saxofón.
 **[▶ En vivo](https://horns.redtiger.studio)**
 
 </td>
-<td width="50%" valign="top">
-
-### 🌐 [redtiger.studio](https://redtiger.studio)
-
-El estudio completo:
-diseño, video, animación y música.
-
-**redtiger.studio**
-
-</td>
 </tr>
 </table>
+
+<br>
+
+## El estudio
+
+**[redtiger.studio](https://redtiger.studio)** — diseño, video, animación, ilustración y música.
 
 <br>
 
