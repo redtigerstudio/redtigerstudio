@@ -17,7 +17,7 @@ Hechas en México.
 <tr>
 <td width="50%" valign="top">
 
-### ⬛ [TIGER ENCODE](https://github.com/REDTIGER_USER/tiger-encode)
+### ⬛ [TIGER ENCODE](https://github.com/redtigerstudio/tiger-encode)
 
 Conversor de video para macOS.
 Rápido, local, sin suscripción.
@@ -29,7 +29,7 @@ Rápido, local, sin suscripción.
 </td>
 <td width="50%" valign="top">
 
-### 🟧 [DubConvert](https://github.com/REDTIGER_USER/dubconvert)
+### 🟧 [DubConvert](https://github.com/redtigerstudio/dubconvert)
 
 Conversor de audio para macOS.
 Lotes, forma de onda, espectro.
@@ -43,7 +43,7 @@ Lotes, forma de onda, espectro.
 <tr>
 <td width="50%" valign="top">
 
-### ⌚ [MetroPulse](https://github.com/REDTIGER_USER/metropulse)
+### ⌚ [MetroPulse](https://github.com/redtigerstudio/metropulse)
 
 Metrónomo para Apple Watch.
 Un dial, una mirada.
@@ -55,7 +55,7 @@ Un dial, una mirada.
 </td>
 <td width="50%" valign="top">
 
-### 🎛 [Dub Explorer](https://github.com/REDTIGER_USER/dub-explorer)
+### 🎛 [Dub Explorer](https://github.com/redtigerstudio/dub-explorer)
 
 DAW gamificado + comunidad.
 Producción musical sin barrera.
@@ -69,7 +69,7 @@ Producción musical sin barrera.
 <tr>
 <td width="50%" valign="top">
 
-### 🎺 [HORNS](https://github.com/REDTIGER_USER/horns)
+### 🎺 [HORNS](https://github.com/redtigerstudio/horns)
 
 Práctica para músicos de viento.
 Afinador, metrónomo, digitaciones.
@@ -81,7 +81,7 @@ Afinador, metrónomo, digitaciones.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Portafolio](https://REDTIGER_USER.github.io)
+### 🌐 [Portafolio](https://redtigerstudio.github.io)
 
 Todos los proyectos en un sitio.
 
